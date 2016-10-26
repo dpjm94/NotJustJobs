@@ -1,0 +1,54 @@
+# Casual Use Cases:
+
+### UC 5:
+
+### Apply for job:
+
+
+**The things that could go wrong are: **
+1. User fails to select option
+2. User enters the wrong credit card details
+3. User left a field empty e.g. Location etc..
+4. To apply for job might not be applied
+
+
+### UC 6:
+
+### Advertise rental:
+
+**The things that could go wrong are: **
+
+1. User fails to select option
+2. User enters the wrong credit card details
+3. The system fails to put advertise job post up.
+
+
+
+### UC 9:
+
+### Get Interview Advice:
+
+**The things that could go wrong are: **
+1. 
+2.
+
+
+
+### UC 13:
+
+### List suggested jobs:
+
+**The things that could go wrong are: **
+1. System does not contain a list of job matching user input.
+2. User enters an invalid number for the price.
+
+
+## UC 16: 
+
+### Advertise Job - Standard or premium
+
+**The things that could go wrong are: **
+1. User fails to select option
+2. User enters the wrong credit card details
+3. The system fails to put advertise job post up.
+
