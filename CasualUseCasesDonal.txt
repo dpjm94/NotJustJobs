@@ -6,10 +6,10 @@
 
 
 **The things that could go wrong are: **
-1. User fails to select option
-2. User enters the wrong credit card details
-3. User left a field empty e.g. Location etc..
-4. To apply for job might not be applied
+1.User left a field empty e.g. Location etc..
+2.User fails to select option
+3.User enters the wrong credit card details
+4.To apply for job might not be applied
 
 
 ### UC 6:
