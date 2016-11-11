@@ -22,15 +22,16 @@ database.
 
 ## Fully Dressed Use Case: 
 
-### Actors: ### User
+**Actors:** User.
 
-### Description: ### This use case lets the user to advertise rental 
+**Description:** This use case lets the user to advertise rental 
 
-### Interest: user wants to advertise a rental Ð sale or rent.
+**Interest:** user wants to advertise a rental Ð sale or rent.
 
-### Precondition: user must be registered in the system before starting this use case.
+**Precondition:** user must be registered in the system before starting this use case
 
-### Main Success Scenario:
+**Main Success Scenario:**
+
 	1.	The user logs on to the system.
 
 	2.	The user selects an option to create new rental
@@ -53,8 +54,8 @@ database.
 
 	10.	The System send confirming email to user.
 
-### Authorize: Authorization
+**Authorize: Authorization**
 	At step 6: System fails to authorize credit purchase.
 	Allow User to re-enter credit card information and re-try
 
-### Post-condition: The user has advertise rental up on the system.
+### **Post-condition:** The user has advertise rental up on the system.
