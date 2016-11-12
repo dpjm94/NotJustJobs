@@ -3,10 +3,7 @@
 
 
 ## Brief Use Cases:
-User selects “Apply for job” option. The system opens the UI. The user then enters the 
-information about the job - and then, the system presents ad options - standard or premium.
-The user confirms Apply for job details. The user is asked for credit card details. The
-system confirms the ad. All details are saved to system database. 
+User selects “Apply for job” option. The system opens the UI. The user then enters the information about the job - and then, the system presents ad options - standard or premium. The user confirms Apply for job details. The user is asked for credit card details. The system confirms the ad. All details are saved to system database. 
 
 
 
@@ -36,7 +33,7 @@ system confirms the ad. All details are saved to system database.
 
 	2. The user selects an option to create new advertise job.
 
-	3. The user enters this information- job type, job description, etc., then 		   selects the continue option.
+	3. The user enters this information- job type, job description, etc.,then selects the continue option.
 
 	4. System presents ad options Ð standard or premium
 
@@ -56,5 +53,5 @@ system confirms the ad. All details are saved to system database.
  	At step 6: System fails to authorize credit purchase.
 	Allow user to re-enter credit card information and re-try
 
-### **Post-condition:** The user has applied the job on the system.
+#### **Post-condition:** The user has applied the job on the system.
 
