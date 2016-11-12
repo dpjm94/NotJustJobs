@@ -12,7 +12,7 @@ system confirms the ad. All details are saved to system database.
 
 ## Casual Use Cases:
 
-** The things that could go wrong are: **
+####** The things that could go wrong are: **
 1.User left a field empty e.g. Location etc..
 2.User fails to select option
 3.User enters the wrong credit card details
@@ -22,15 +22,15 @@ system confirms the ad. All details are saved to system database.
 
 ## Fully Dressed Use Case: 
 
-# Actor: user.
+**Actor:** User.
 
-# Description: This use case lets the user to advertise job on system.
+**Description:** This use case lets the user to advertise job on system.
 
-# Interest: user wants to advertise a job standard or premium.
+**Interest:** user wants to advertise a job standard or premium.
 
-# Precondition: user must be registered in the system before starting this use case.
+**Precondition:** user must be registered in the system before starting this use case.
 
-# Main Success Scenario:
+**Main Success Scenario**
 
 	1. The user logs on to the system.
 
@@ -52,9 +52,9 @@ system confirms the ad. All details are saved to system database.
 
 	10.The user logs out.
 
-# Alternative: Authorization Failure 
+**Alternative: Authorization Failure** 
  	At step 6: System fails to authorize credit purchase.
 	Allow user to re-enter credit card information and re-try
 
-# Post-condition: The user has applied the job on the system.
+### **Post-condition:** The user has applied the job on the system.
 

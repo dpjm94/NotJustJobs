@@ -26,7 +26,7 @@ database.
 
 **Description:** This use case lets the user to advertise rental 
 
-**Interest:** user wants to advertise a rental Ð sale or rent.
+**Interest:** user wants to advertise a rental : sale or rent.
 
 **Precondition:** user must be registered in the system before starting this use case
 
@@ -36,7 +36,7 @@ database.
 
 	2.	The user selects an option to create new rental
 
-	3.	The user enters this information - rental details Ð ad title, price, ad 
+	3.	The user enters this information - rental details : ad title, price, ad 
                 description, contact preferences, ad type - Wanted or sale, subsection
                 house, apartment, etc. 
 
