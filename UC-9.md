@@ -12,7 +12,7 @@ database by other company or other user.
 
 ## Casual Use Case:
 
-** The things that could go wrong are: **
+####** The things that could go wrong are: **
 1. 
 2.
 
@@ -20,15 +20,15 @@ database by other company or other user.
 
 ## Fully Dressed Use Case:
 
-# Actor: user
+**Actor:** User
 
-# Description: This use case lets the user print the interview tips.
+**Description:** This use case lets the user print the interview tips.
 
-# Interest: user Ð wants to know how succeed in the interview
+**Interest:** user Ð wants to know how succeed in the interview
 
-# Precondition: user must be registered in the system before starting this use case.
+**Precondition:** user must be registered in the system before starting this use case.
 
-# Main Success Scenario: 
+**Main Success Scenario:** 
 	1. The user logs in to the system.
 
 	2. The user selects interview Advice.
@@ -40,5 +40,5 @@ database by other company or other user.
 	5. The user logs out. 
 
 
-# Post-condition: The user has the interview tips that he/she can use for going
+###**Post-condition:** The user has the interview tips that he/she can use for going
                   to the interview.
