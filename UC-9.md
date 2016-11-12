@@ -24,11 +24,12 @@ database by other company or other user.
 
 **Description:** This use case lets the user print the interview tips.
 
-**Interest:** user Ð wants to know how succeed in the interview
+**Interest:** user wants to know how succeed in the interview
 
 **Precondition:** user must be registered in the system before starting this use case.
 
 **Main Success Scenario:** 
+
 	1. The user logs in to the system.
 
 	2. The user selects interview Advice.
@@ -40,5 +41,4 @@ database by other company or other user.
 	5. The user logs out. 
 
 
-###**Post-condition:** The user has the interview tips that he/she can use for going
-                  to the interview.
+####**Post-condition:** The user has the interview tips that he/she can use for going to the interview.
