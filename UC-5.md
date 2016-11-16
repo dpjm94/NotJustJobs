@@ -3,11 +3,12 @@
 
 
 ## Brief Use Cases:
-User selects “Apply for job” option. The system opens the UI. The user then enters the information about the job - and then, the system presents ad options - standard or premium. The user confirms Apply for job details. The user is asked for credit card details. The system confirms the ad. All details are saved to system database. 
-
+ User can apply for job on the system. The system will present ad options - standard or premium.
 
 
 ## Casual Use Cases:
+
+User selects “Apply for job” option. The system opens the UI. The user then enters the information about the job - and then, the system presents ad options - standard or premium. The user confirms Apply for job details. The user is asked for credit card details. The system confirms the ad. All details are saved to system database.
 
 ####** The things that could go wrong are: **
 1.User left a field empty e.g. Location etc..
