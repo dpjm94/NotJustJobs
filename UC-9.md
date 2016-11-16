@@ -3,14 +3,11 @@
 
 
 ## Brief Use Case:
-User selects “Get Interview Advice” option. The system opens the UI. and then
-The system presents options - print interview advice from the system or get advice from other
-user.The user selects  “get advice” option. The system retrieves all interview advice in the
-database by other company or other user. 
-
+This use case allow user to able to see tips for the interview on the system. 
 
 
 ## Casual Use Case:
+User selects “Get Interview Advice” option. The system opens the UI. and then The system presents options - print interview advice from the system or get advice from other user. The user selects “get advice” option. The system retrieves all interview advice in the database by other company or other user.   
 
 ####** The things that could go wrong are: **
 1. 
